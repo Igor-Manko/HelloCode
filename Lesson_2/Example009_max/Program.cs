@@ -33,4 +33,3 @@ if (b3 > max) max = b3;
 if (c3 > max) max = c3; */
 
 Console.WriteLine(max);
-
